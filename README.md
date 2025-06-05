@@ -1,4 +1,4 @@
-# 🙏 App Cristão de Relacionamentos - Documentação de Telas (MVP)
+# App de Relacionamentos - Documentação de Telas (MVP)
 
 > Foco em conexões genuínas com valores cristãos. Relacionamentos sérios, seguros e respeitosos.
 
