@@ -1,6 +1,6 @@
 # App de Relacionamentos - Documentação de Telas (MVP)
 
-> Foco em conexões genuínas com valores cristãos. Relacionamentos sérios, seguros e respeitosos.
+> Foco em conexões genuínas com valores tradicionais. Relacionamentos sérios, seguros e respeitosos.
 
 ---
 
